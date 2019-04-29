@@ -10,9 +10,9 @@ A problem arises when transmitting the signals to each external controller, whic
 To utilize these two pairs successfully, the I2C protocol should be used (which supports up to 3.2MBps), more than capable of supporting the data transmission required to control all LEDs without introducing extra wires.
 
 ## Cost
-Shift Registers (x9) - PN: MC74HC595ADTR2G @ $0.42/unit = $3.78
-LEDs (x81) - PN: OVS5MBBCR4 (Surface mounted component) @ $0.41/unit = $33.21
-Arduino Uno Unit - @$24.00/unit = $24.00
+Shift Registers (x9) - PN: MC74HC595ADTR2G @ $0.42/unit = $3.78<br/>
+LEDs (x81) - PN: OVS5MBBCR4 (Surface mounted component) @ $0.41/unit = $33.21<br/>
+Arduino Uno Unit - @$24.00/unit = $24.00 <br/>
 Assuming negligible cost for wires
 
 **Total Cost: $60.99**
