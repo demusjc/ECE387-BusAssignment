@@ -16,3 +16,5 @@ Arduino Uno Unit - @$24.00/unit = $24.00
 Assuming negligible cost for wires
 
 **Total Cost: $60.99**
+
+![Bus Drawing](https://github.com/demusjc/ECE387-BusAssignment/blob/master/Bus.jpg)
